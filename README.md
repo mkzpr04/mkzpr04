@@ -2,16 +2,18 @@
 
 Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - I’m @mkzpr04 aka Mark-Killian Zinenberg
-- Head of DeFi at KRYPTOSPHERE® and student-researcher at Esilv
+- Head of DeFi at KRYPTOSPHERE® and student-researcher at Esilv (Top 4%)
 - 🌱 I’m currently learning advanced quantitative models, machine learning for finance, and exploring blockchain technologies.
 - 💞️ I’m looking to collaborate on projects involving quantitative finance, algorithmic trading, AI or blockchain-based finance solutions.
 
 ## Awards 🏆
 - **Participated in the NextWise** and the **Bloomberg Trading Challenge**, managed a million-dollar portfolio, and applied quant strategies.
 - **Participated in Machine Learning Hackathons**: 
-  - **Prize Winner**: **LauzHack** (EPFL, Lausanne).
-  - **Top 20**: **Algothon** (Imperial College London).
-- **Participated in H-GenAI 2025** with **Sia Partners** and secured **2nd place** for **Veolia**.
+  - **Prize Winner**: **LauzHack** (EPFL, Lausanne) - Developed a fraud detection model for UBS, identifying transactions linked to the same entity in large datasets.
+  - **Top 20**: **Algothon** (Imperial College London) - Maximized portfolio performance using machine learning, regression analysis, and mean-covariance optimization under strict constraints.
+  - **H-GenAI 2025** with **Sia Partners**: Secured **2nd place** for **Veolia** by developing an AI-driven solution to streamline data quality checks, reducing manual work hours by automating anomaly detection and SQL query generation.
+
+
 
 ## Skills
 - **Proficient Languages**: Python , C#, C++, Excel, LaTeX, Rust, R
