@@ -1,4 +1,5 @@
-# Quant Trader | AI & Blockchain Enthusiast | Quantitative Finance Researcher at ESILV
+# Quantitative Finance Researcher | IT Quant – Equity Derivatives at Natixis | AI & Blockchain Enthusiast
+Student at ESILV, Top 4% | Head of DeFi at KRYPTOSPHERE®
 
 Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - I’m @mkzpr04 aka Mark-Killian Zinenberg
